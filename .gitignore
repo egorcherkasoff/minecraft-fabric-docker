@@ -1,0 +1,14 @@
+# Server data: world, configs, libraries, logs
+data/
+
+# Installed mods (keep the folder itself)
+mods/*
+!mods/.gitkeep
+
+# Local settings
+.env
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.log
